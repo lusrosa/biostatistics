@@ -8,8 +8,7 @@ This is a TeX format book on the course *Biostatistics: A Practical Introduction
 ### References
 The course and its interactive tutorials were elaborated by:
 
-Sarah Kaspar, PhD
-sarah.kaspar@embl.de | License: CC BY-NC-SA
+Sarah Kaspar, PhD (sarah.kaspar@embl.de | License: CC BY-NC-SA)
 
 
 ## Contents
